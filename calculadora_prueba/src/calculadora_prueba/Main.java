@@ -2,11 +2,11 @@ package calculadora_prueba;
 
 import java.util.Scanner;
 
-public class main {
+public class Main {
 
 	public static void main(String[] args) {
-		prueba_usuario pu = new prueba_usuario();
-		System.out.println("");
+		PruebaUsuario pu = new PruebaUsuario();
+		/*System.out.println("");
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Ingrese valor 1: ");
 		int a = sc.nextInt();
@@ -16,7 +16,7 @@ public class main {
 		pu.testSuma( a, b);
 		pu.testResta(a, b);
 		pu.testDivision(a, b);
-		pu.testMultiplicacion(a, b);
+		pu.testMultiplicacion(a, b);*/
 	}
 	
 
